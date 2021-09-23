@@ -23,10 +23,10 @@ any OS or platform.
         │   ├───music
         │   └───sfx
         ├───autoloads   # Autoloads such as game information, or game states go here.
+        │   └───main    # The main autoload for the entire project.
         ├───objects     # Game objects, components and other entities go here.
         ├───scenes      # Designed levels, scenes or worlds go here.
         ├───shaders     # Custom-written shaders or downloaded shaders go here.
-        │   └───main    # The main autoload for the entire project.
         ├───tests       # Write your tests here.
         ├───textures    # Textures from assets, stored here.
         └───ui          # Everything related to the user interface goes here.
