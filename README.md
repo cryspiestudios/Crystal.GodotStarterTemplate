@@ -39,6 +39,8 @@ any OS or platform.
 [Godot Release History](https://downloads.tuxfamily.org/godotengine/)
 - Remove the .gitkeep files if they bother you.
 
+## Essential Gaming Resources
+- [Kenney Game Assets](https://kenney.nl/)
 
 ## Examples and Useful Components
 
