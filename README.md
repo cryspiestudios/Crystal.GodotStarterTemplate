@@ -13,15 +13,15 @@ any OS or platform.
 
 
 ```
+    ├───assets          # All types of assets go here in their own subdirectories.
+    │   ├───fonts
+    │   ├───images
+    │   ├───music
+    │   └───sfx
     ├───docs            # Documentation for the project, independent of game code.
     └───src
         ├───actors      # Players, enemies and other characters in your game.
         ├───addons      # Godot plugins and add-ons go here.
-        ├───assets      # All types of assets go here in their own subdirectories.
-        │   ├───fonts
-        │   ├───images
-        │   ├───music
-        │   └───sfx
         ├───autoloads   # Autoloads such as game information, or game states go here.
         │   └───main    # The main autoload for the entire project.
         ├───objects     # Game objects, components and other entities go here.
